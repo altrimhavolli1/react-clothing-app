@@ -3,11 +3,7 @@
   padding: 0;
 }
 
-h1{
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: 'Poppins';
+  padding: 20px 70px;
 }
